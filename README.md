@@ -1,5 +1,6 @@
-# <Prework study guide>
-
+# <Your-Project-Title>
+Prework Studt Guide
+  
 ## Description
 
 A guide on the prework study course. This Prework Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript.
